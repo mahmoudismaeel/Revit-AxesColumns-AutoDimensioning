@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ColumnDim</Name>
+		<Assembly>AxCol AutoDimensioning.dll</Assembly>
+		<AddInId>B4600F0A-02E3-4622-983A-6159A01E4589</AddInId>
+		<FullClassName>AxCol_AutoDimensioning.Button</FullClassName>
+		<Text>Create Axes-Columns Dimensions</Text>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

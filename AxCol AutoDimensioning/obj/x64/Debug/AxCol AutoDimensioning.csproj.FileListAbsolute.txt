@@ -1,0 +1,9 @@
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\bin\x64\Debug\AxCol AutoDimensioning.dll
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\bin\x64\Debug\AxCol AutoDimensioning.pdb
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol AutoDimensioning.csproj.AssemblyReference.cache
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol AutoDimensioning.csproj.CoreCompileInputs.cache
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol AutoDimensioning.dll
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol AutoDimensioning.pdb
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol_AutoDimensioning.Properties.Resources.resources
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol AutoDimensioning.csproj.GenerateResource.cache
+D:\BIMAD01\Lectures\Revit API\Final Project\AxCol AutoDimensioning\AxCol AutoDimensioning\obj\x64\Debug\AxCol AutoDimensioning.g.resources
